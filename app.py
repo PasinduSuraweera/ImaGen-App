@@ -13,9 +13,7 @@ import time
 # Configure Streamlit page
 st.set_page_config(
     page_title="ImaGen App",
-    page_icon="",
     layout="wide",
-    initial_sidebar_state="expanded"
 )
 
 # Load environment variables
